@@ -1,2 +1,2 @@
 # Principles-of-Programming
-20 T1
+COMP9021 2020 T1
